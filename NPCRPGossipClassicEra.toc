@@ -1,6 +1,6 @@
-## Interface: 11307
+## Interface: 11400
 ## Title: NPC RP Gossip Classic Era
-## Version: 1.0.0
+## Version: 1.0.1
 ## Notes: This AddOn shows RP Text for those NPCs that have it. Toggle with the /npcrpgossip command.
 ## Author: Conine Spiritwolf
 ## SavedVariables: NPCRPGossipEnable, NPCRPGossipStoryline
